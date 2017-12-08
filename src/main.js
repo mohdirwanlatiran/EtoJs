@@ -8,7 +8,7 @@ let exec = require('child_process').exec;
 
 var myStaff = [];//Gosah Diisi Mid
 
-const myAdmin = ['Taro Mid Lu Disini Goblok'];
+const myAdmin = [ua900e1ba4a91a01b7de658f26471c510'];
 
 const myAssist = [];//Kosongin Aja Ini Gaguna Kntl
 
